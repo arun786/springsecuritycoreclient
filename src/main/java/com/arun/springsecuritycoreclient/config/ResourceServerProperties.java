@@ -15,7 +15,6 @@ import org.springframework.context.annotation.Configuration;
 @Getter
 @Setter
 public class ResourceServerProperties {
-    private String url;
     private String user;
     private String password;
 }
