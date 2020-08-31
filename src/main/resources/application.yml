@@ -1,0 +1,17 @@
+server:
+  port: 13000
+
+resource:
+  server:
+    url: http://localhost:12000/v1/student
+    user: user
+    password: 8ee26111-6836-4f38-99d6-dde12f25d8f6
+
+
+client:
+  url:
+    schema: http
+    hostname: localhost
+    port: 12000
+    path: /v1/student
+
