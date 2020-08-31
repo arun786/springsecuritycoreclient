@@ -2,7 +2,7 @@
 
 ## API which it calls is 
 
-(Exposed Rest API)[https://github.com/arun786/springsecuritycore]
+[Exposed Rest API](https://github.com/arun786/springsecuritycore)
 
 Configuration required for 
 
