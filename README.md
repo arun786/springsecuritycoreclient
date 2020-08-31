@@ -1,5 +1,9 @@
 # This is a Rest API, which calls an API where Basic Authentication enabled
 
+## API which it calls is 
+
+(Exposed Rest API)[https://github.com/arun786/springsecuritycore]
+
 Configuration required for 
 
     spring:
