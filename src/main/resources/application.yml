@@ -20,5 +20,5 @@ spring:
 
 resource:
   server:
-    user: user
-    password: 7a6bd109-cab2-4cff-8432-2abdacb64398
+    user: student
+    password: dXNlcjo2N2VlM2IzZC1iODRmLTQxYzgtOWUxMS01ZTg3ZjAwNTE3MWY=
